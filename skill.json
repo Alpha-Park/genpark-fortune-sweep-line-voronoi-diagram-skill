@@ -1,0 +1,17 @@
+{
+  "name": "genpark-fortune-sweep-line-voronoi-diagram-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Delaunay Triangulation & Voronoi Dual Planar Graph Tessellation Engine",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "computational-geometry",
+    "delaunay-triangulation",
+    "voronoi-diagram",
+    "spatial-mesh"
+  ]
+}
